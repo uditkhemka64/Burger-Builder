@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75d49f11.chunk.css",
+    "main.js": "/static/js/main.df800e60.chunk.js",
+    "main.js.map": "/static/js/main.df800e60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.485810a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.485810a5.js.map",
+    "static/js/2.c995464b.chunk.js": "/static/js/2.c995464b.chunk.js",
+    "static/js/2.c995464b.chunk.js.map": "/static/js/2.c995464b.chunk.js.map",
+    "static/css/3.1e704350.chunk.css": "/static/css/3.1e704350.chunk.css",
+    "static/js/3.4d8b2a07.chunk.js": "/static/js/3.4d8b2a07.chunk.js",
+    "static/js/3.4d8b2a07.chunk.js.map": "/static/js/3.4d8b2a07.chunk.js.map",
+    "static/css/4.157dfab5.chunk.css": "/static/css/4.157dfab5.chunk.css",
+    "static/js/4.9bdaa369.chunk.js": "/static/js/4.9bdaa369.chunk.js",
+    "static/js/4.9bdaa369.chunk.js.map": "/static/js/4.9bdaa369.chunk.js.map",
+    "static/css/5.0c143387.chunk.css": "/static/css/5.0c143387.chunk.css",
+    "static/js/5.a5a06c61.chunk.js": "/static/js/5.a5a06c61.chunk.js",
+    "static/js/5.a5a06c61.chunk.js.map": "/static/js/5.a5a06c61.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.795286d96ece82965c0abcc7932f415c.js": "/precache-manifest.795286d96ece82965c0abcc7932f415c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.1e704350.chunk.css.map": "/static/css/3.1e704350.chunk.css.map",
+    "static/css/4.157dfab5.chunk.css.map": "/static/css/4.157dfab5.chunk.css.map",
+    "static/css/5.0c143387.chunk.css.map": "/static/css/5.0c143387.chunk.css.map",
+    "static/css/main.75d49f11.chunk.css.map": "/static/css/main.75d49f11.chunk.css.map",
+    "static/js/2.c995464b.chunk.js.LICENSE.txt": "/static/js/2.c995464b.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.485810a5.js",
+    "static/js/2.c995464b.chunk.js",
+    "static/css/main.75d49f11.chunk.css",
+    "static/js/main.df800e60.chunk.js"
+  ]
+}
